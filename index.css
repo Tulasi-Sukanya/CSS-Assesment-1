@@ -1,0 +1,30 @@
+h1{
+    color:red;
+}
+h3{
+    font-style: italic;
+    color:red;
+}
+p,li{
+    color: brown;
+}
+font{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#uline{
+    text-decoration: underline;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+
+}
+.lsp{
+    letter-spacing: 6px;
+}
+a{
+    color:red;
+    background-color: yellow;
+    font-style: italic;
+}
