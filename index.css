@@ -20,7 +20,10 @@ span{
     font-weight: bold;
 
 }
-.lsp{
+.lsp:nth-child(3){
+    letter-spacing: 6px;
+}
+.lsp:last-child{
     letter-spacing: 6px;
 }
 a{
